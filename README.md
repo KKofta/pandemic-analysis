@@ -1,1 +1,1 @@
-# pandemic-analysis
+# Pandemic Analysis
